@@ -2,6 +2,7 @@ import pygame
 import pygame.font
 
 class Button:
+    """Buttons class"""
     def __init__(self,game,txt):
         self.screen = game.screen
         self.screen_rect = self.screen.get_rect()

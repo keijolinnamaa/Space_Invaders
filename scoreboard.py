@@ -4,6 +4,7 @@ from ship import Ship
 
 
 class ScoreBoard:
+    """Score board class"""
     def __init__(self, game):
         self.screen = game.screen
         self.screen_rect = self.screen.get_rect()

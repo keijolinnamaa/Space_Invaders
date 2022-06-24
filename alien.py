@@ -5,7 +5,7 @@ from pygame.sprite import Sprite
 from random import randint
 
 class Alien(Sprite):
-
+    """Alien class"""
     def __init__(self, game):
         super().__init__()
         self.screen = game.screen

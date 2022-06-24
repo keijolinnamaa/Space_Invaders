@@ -1,4 +1,5 @@
 class GameStats:
+    """Game statistics class"""
     def __init__(self,game):
         self.settings = game.settings
         self.reset_stats()

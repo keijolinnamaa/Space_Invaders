@@ -14,6 +14,7 @@ from scoreboard import ScoreBoard
 import random
 
 class SpaceInvaders:
+    """Main Space Invaders class"""
 
     def __init__(self):
         pygame.init()

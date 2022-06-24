@@ -5,6 +5,7 @@ import pygame
 
 
 class Settings:
+    """Settings class"""
     def __init__(self):
         #Screen settings
         self.screen_width = 1200

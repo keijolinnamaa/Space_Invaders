@@ -4,6 +4,7 @@ from time import sleep
 
 
 class Ship(Sprite):
+    """Ship class"""
     def __init__(self, game):
         super().__init__()
         self.screen = game.screen
