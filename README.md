@@ -1,5 +1,5 @@
 # Space_Invaders
-A Space Invaders type pygame project that was made during my current studies in Taitotalo.
+A Space Invaders type pygame project that was made during my studies in Taitotalo.
 
 Background music info:
 
